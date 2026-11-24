@@ -3,6 +3,7 @@
 A demo web app of an AI front desk for a small clinic, built for Dhiraj's
 Executive Series episode **“I built an AI front desk for a small clinic for
 ~$30/month.”**
+**Live demo: https:/seva-clinic-five.vercel.app/**
 
 It does the three jobs a clinic front desk repeats every day:
 
